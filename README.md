@@ -2,6 +2,7 @@
 - 👨‍💻 I'm a web beckend engineer from Japan🇯🇵
 - 🔭 I’m currently working on [UTokyo Prompts](https://github.com/KeishiIrisa/utokyo_prompts)
 - 🌱 I’m currently learning Spring Boot, Vue.js
+- 💡 I'm creating [programming tips](https://handsomely-opinion-ffb.notion.site/Programming-Tips-ebe54bcb65b94241b179fddfe7d82759?pvs=4)
 - 📫 How to reach me: [X - @ka_keishi](https://x.com/ka_keishi)
 
 # Status📈
@@ -20,6 +21,7 @@
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=mysql,postman,docker,git,github,vscode,idea,figma" /> <br /><br />
+
 
 <!--
 **KeishiIrisa/KeishiIrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
