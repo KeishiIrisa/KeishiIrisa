@@ -1,5 +1,5 @@
 # About Me👋
-- 👨‍💻 I'm a web beckend engineer from Japan🇯🇵
+- 👨‍💻 I'm a web backend engineer from Japan🇯🇵
 - 🔭 I’m currently working on [UTokyo Prompts](https://github.com/KeishiIrisa/utokyo_prompts)
 - 🌱 I’m currently learning Spring Boot, Vue.js
 - 💡 I'm creating [programming tips](https://handsomely-opinion-ffb.notion.site/Programming-Tips-ebe54bcb65b94241b179fddfe7d82759?pvs=4)
