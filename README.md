@@ -19,7 +19,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,idea,figma,postman" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postman,docker,git,github,vscode,idea,figma" /> <br /><br />
 
 <!--
 **KeishiIrisa/KeishiIrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
