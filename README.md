@@ -1,9 +1,7 @@
 # About Me👋
 - 👨‍💻 I'm a web backend engineer from Japan🇯🇵
-- 🔭 I’m currently working on [UTokyo Prompts](https://github.com/KeishiIrisa/utokyo_prompts)
-- 🌱 I’m currently learning Spring Boot, Vue.js
+- 🌱 I’m currently learning FastAPI, React
 - 💡 I'm writing [programming tips](https://handsomely-opinion-ffb.notion.site/Programming-Tips-ebe54bcb65b94241b179fddfe7d82759?pvs=4)
-- 📫 How to reach me: [X - @ka_keishi](https://x.com/ka_keishi)
 
 # Status📈
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KeishiIrisa&show_icons=true&locale=en&layout=compact)
