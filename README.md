@@ -14,7 +14,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue,flask,django,spring" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vue,react,fastapi,flask,django,spring" /> <br /><br />
 
 ## DB and Dev Tools etc
 
