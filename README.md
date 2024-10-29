@@ -10,7 +10,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,md,js,typescript,python,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,java" /> <br /><br />
 
 ## Frameworks and Library
 
@@ -18,7 +18,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postman,docker,git,github,vscode,idea,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,figma" /> <br /><br />
 
 
 <!--
