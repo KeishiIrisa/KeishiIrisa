@@ -18,7 +18,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,figma" /> <br /><br />
 
 
 <!--
