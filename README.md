@@ -2,7 +2,7 @@
 - 👨‍💻 I'm a web backend engineer from Japan🇯🇵
 - 🌱 I’m currently learning FastAPI, React
 - 💡 I'm writing [programming tips](https://handsomely-opinion-ffb.notion.site/Programming-Tips-ebe54bcb65b94241b179fddfe7d82759?pvs=4)
-- 🧑 How to reach me[Linked In](https://www.linkedin.com/in/%E5%85%A5%E4%BD%90%E5%95%93%E5%A3%AButokyo/)
+- 🧑 How to reach me [Linked In](https://www.linkedin.com/in/%E5%85%A5%E4%BD%90%E5%95%93%E5%A3%AButokyo/)
 
 # Status📈
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KeishiIrisa&show_icons=true&locale=en&layout=compact)
