@@ -8,7 +8,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,python,java,go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,go,java" /> <br /><br />
 
 ## Frameworks and Library
 
