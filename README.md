@@ -8,11 +8,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,python,go,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,go" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,django,spring" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,django" /> <br /><br />
 
 ## DB and Dev Tools etc
 
