@@ -1,6 +1,6 @@
 # About Me👋
 - 👨‍💻 I'm a web backend engineer from Japan🇯🇵
-- 🌱 I’m currently learning GO、 Rust
+- 🌱 I’m currently learning GO, Rust
 - 🧑 How to reach me [Linked In](https://www.linkedin.com/in/%E5%85%A5%E4%BD%90%E5%95%93%E5%A3%AButokyo/)
 
 # Skills🛠️
