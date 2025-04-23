@@ -18,16 +18,10 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,docker,gcp,git,figma" /> <br /><br />
 
 
-<!--
-**KeishiIrisa/KeishiIrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ _  __    _     _     _   ___      _           
+| |/ /___(_)___| |__ (_) |_ _|_ __(_)___  __ _ 
+| ' // _ \ / __| '_ \| |  | || '__| / __|/ _` |
+| . \  __/ \__ \ | | | |  | || |  | \__ \ (_| |
+|_|\_\___|_|___/_| |_|_| |___|_|  |_|___/\__,_|
+```
